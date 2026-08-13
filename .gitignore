@@ -57,7 +57,7 @@ nltk_data/
 *.onnx
 *.pt
 *.pth
-models/
+/models/
 checkpoints/
 
 # IDE / editors
